@@ -2,13 +2,15 @@
 
 This repository contains the jupyter notebooks used for the hands-on session with the `pke` toolkit of the keyphrasification tutorial organised at ECIR 2022.
 
-## Requirements
+## Open notebooks with Google Colab
 
- * Python 3
- * Virtualenv
- * git
+ * Part-1 Keyphrase extraction using `pke` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-1-graph-based-keyphrase-extraction.ipynb)
+ * Part-2 Model parameterization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-2-parameterization.ipynb)
+ * Part-3 Benchmarking models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-3-benchmarking-models.ipynb)
 
-## Getting Started
+## Open notebooks locally
+
+### Getting Started
 
 ```
 # clone the tutorial code

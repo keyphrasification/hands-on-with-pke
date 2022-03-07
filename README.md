@@ -4,7 +4,7 @@ This repository contains the jupyter notebooks used for the hands-on session wit
 
 ## Open notebooks with Google Colab
 
- * Part-1 Keyphrase extraction using `pke` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-1-graph-based-keyphrase-extraction.ipynb)
+ * Part-1 Getting started with `pke` and keyphrase extraction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-1-graph-based-keyphrase-extraction.ipynb)
  * Part-2 Model parameterization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-2-parameterization.ipynb)
  * Part-3 Benchmarking models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-3-benchmarking-models.ipynb)
 
